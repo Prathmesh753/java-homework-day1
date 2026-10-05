@@ -1,4 +1,4 @@
-public class VotingEligibility 
+public class voting
 {
     public static void main(String[] args) {
         int age = 21;
